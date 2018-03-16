@@ -1,4 +1,4 @@
-#include <pluginlib/class_loader.h>
+#include <pluginlib/class_loader.hpp>
 #include "test_base.h"
 #include <gtest/gtest.h>
 

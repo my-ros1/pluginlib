@@ -27,7 +27,7 @@
  * POSSIBILITY OF SUCH DAMAGE.
  */
 
-#include <pluginlib/class_loader.h>
+#include <pluginlib/class_loader.hpp>
 #include <ros/console.h>
 #include <iostream>
 #include <vector>
